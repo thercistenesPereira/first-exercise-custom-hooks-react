@@ -2,6 +2,8 @@
 
 Este projeto apresenta um formulário React com a utilização de custom hooks para simplificar o gerenciamento do estado dos campos de entrada. Diversas tecnologias modernas foram incorporadas, como `React` para a construção de interfaces de usuário, `SweetAlert2` para notificações interativas e `TypeScript` para proporcionar uma tipagem estática.
 
+![GIF React](https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif)
+
 ## Tecnologias Utilizadas
 - `React`: Biblioteca JavaScript para o desenvolvimento de interfaces de usuário.
 
