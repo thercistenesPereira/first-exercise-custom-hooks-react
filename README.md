@@ -22,9 +22,9 @@ O projeto está organizado da seguinte maneira:
 - `src/styles/form.css`: Estilos CSS para o formulário.
 
 ## Como Usar
-1. Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
-2. Instale as dependências: npm install ou yarn install
-3. Inicie o aplicativo: npm start ou yarn start
+1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+2. Instale as dependências: `npm install`
+3. Inicie o aplicativo: `npm start`
 
 ## Custom Hooks
 Os custom hooks são uma abstração poderosa que simplifica o gerenciamento de estados em formulários React. No contexto deste projeto, o useFormInput é um exemplo claro de como essa abordagem promove a modularidade e reutilização de código.
