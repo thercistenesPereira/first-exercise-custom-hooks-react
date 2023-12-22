@@ -1,5 +1,6 @@
 # Formulário React com Custom Hooks
 ![Static Badge](https://img.shields.io/badge/thercistenes-custom_hooks-purple)
+![GitHub License](https://img.shields.io/github/license/thercistenesPereira/first-exercise-custom-hooks-react)
 
 Este projeto apresenta um formulário React com a utilização de custom hooks para simplificar o gerenciamento do estado dos campos de entrada. Diversas tecnologias modernas foram incorporadas, como `React` para a construção de interfaces de usuário, `SweetAlert2` para notificações interativas e `TypeScript` para proporcionar uma tipagem estática.
 
